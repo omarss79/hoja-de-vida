@@ -1,0 +1,35 @@
+body{
+    width: 720px;
+    height: 100%;
+    background-color: #eee;
+    margin: auto;
+}
+h1{
+    color: black;
+}
+h4{
+    color: blue;
+    font-weight: bold;
+}
+p.subtitulo{
+    color: fuchsia;
+}
+
+p{
+    color: brown;
+}
+ul{
+    color: black;
+}
+ol{
+    color: green;
+}
+a{
+    color: blue;
+}
+a:hover{
+    color: green;
+}
+a:visited{
+    color: brown;
+}

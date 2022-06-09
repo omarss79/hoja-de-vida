@@ -1,0 +1,69 @@
+
+.header h1{
+    color: blue;
+    text-align: center;
+}
+.container{
+    width: 100%;
+}
+.container .foto{
+    text-align: center;
+}
+.container .nombre h2{
+    margin: auto;
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+}
+.container .nombre h3{
+    margin: auto;
+    text-align: center;
+    color: blue;
+    font-style: italic;
+}
+.container .resumen p{
+    margin-top: 10px;
+    text-align: center;
+    color: black;
+    font-style: normal;
+}
+.aside{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.container .proyectos {
+    width: 100%;
+}
+.container .proyectos h4{
+    margin: auto;
+    text-align: left;
+    color: black;
+    font-style: bold;
+}
+
+.container .tecnologias {
+    width: 100%;
+}
+.container .tecnologias h4{
+    margin: auto;
+    text-align: left;
+    color: black;
+    font-style: bold;
+}
+
+.container .contacto {
+    width: 100%;
+}
+.container .contacto h4{
+    margin: auto;
+    text-align: left;
+    color: black;
+    font-style: bold;
+}
+
+
+.footer{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
